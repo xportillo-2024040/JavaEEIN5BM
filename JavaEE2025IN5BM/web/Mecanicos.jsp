@@ -54,17 +54,7 @@
 
 
         <div class="Empleado-info">
-            <img src="Images/Mecanico2.jpg" alt="Mecanico Sebastian" class="Empleado-img">
-            <div class="Puesto">Mecánico</div>
-            <h3 class="Nombre">Sebastian</h3>
-            <p class="Email">Sebastiana@gmail.com</p>
-            <div class="Telefono">32018745</div>
-            <div class="Direccion">Zona 7</div>
-        </div>
-
-
-        <div class="Empleado-info">
-            <img src="Images/Mecanico3.jpg" alt="Mecanico Carlos" class="Empleado-img">
+            <img src="Images/Mecanico2.jpg" alt="Mecanico Carlos" class="Empleado-img">
             <div class="Puesto">Mecánico</div>
             <h3 class="Nombre">Carlos</h3>
             <p class="Email">carlos@gmail.com</p>
@@ -74,19 +64,9 @@
 
 
         <div class="Empleado-info">
-            <img src="Images/Mecanico4.jpg" alt="Mecanico Pablo" class="Empleado-img">
+            <img src="Images/Mecanico3.jpg" alt="Mecanico Jorje" class="Empleado-img">
             <div class="Puesto">Mecánico</div>
-            <h3 class="Nombre">Pablo</h3>
-            <p class="Email">pablo@gmail.com</p>
-            <div class="Telefono">33098745</div>
-            <div class="Direccion">Zona 5</div>
-        </div>
-
-
-        <div class="Empleado-info">
-            <img src="Images/Mecanico5.jpg" alt="Mecanico Jorje" class="Empleado-img">
-            <div class="Puesto">Mecánico</div>
-            <h3 class="Nombre">Jorje</h3>
+            <h3 class="Nombre">Jorge</h3>
             <p class="Email">jorge@gmail.com</p>
             <div class="Telefono">44982736</div>
             <div class="Direccion">Zona 4</div>
@@ -94,17 +74,7 @@
 
 
         <div class="Empleado-info">
-            <img src="Images/Mecanico6.jpg" alt="Mecanico Mariano" class="Empleado-img">
-            <div class="Puesto">Mecánico</div>
-            <h3 class="Nombre">Mariano</h3>
-            <p class="Email">mariano@gmail.com</p>
-            <div class="Telefono">30129873</div>
-            <div class="Direccion">Zona 9</div>
-        </div>
-
-
-        <div class="Empleado-info">
-            <img src="Images/Mecanico7.jpg" alt="Mecanico Pedro" class="Empleado-img">
+            <img src="Images/Mecanico4.jpg" alt="Mecanico Pedro" class="Empleado-img">
             <div class="Puesto">Mecánico</div>
             <h3 class="Nombre">Pedro</h3>
             <p class="Email">pedro@gmail.com</p>
@@ -112,32 +82,25 @@
             <div class="Direccion">Zona 2</div>
         </div>
 
-    <div class="Empleado-info">
-        <img src="Images/Mecanico8.jpg" alt="Mecanico Lucas" class="Empleado-img">
-        <div class="Puesto">Mecánico</div>
-        <h3 class="Nombre">Lucas</h3>
-        <p class="Email">lucas@gmail.com</p>
-        <div class="Telefono">33724567</div>
-        <div class="Direccion">Zona 6</div>
-    </div>
 
-    <div class="Empleado-info">
-        <img src="Images/Mecanico9.jpg" alt="Mecanico Jose" class="Empleado-img">
-        <div class="Puesto">Mecánico</div>
-        <h3 class="Nombre">Jose</h3>
-        <p class="Email">jose@gmail.com</p>
-        <div class="Telefono">55890123</div>
-        <div class="Direccion">Zona 10</div>
-    </div>
+        <div class="Empleado-info">
+            <img src="Images/Mecanico5.jpg" alt="Mecanico Jose" class="Empleado-img">
+            <div class="Puesto">Mecánico</div>
+            <h3 class="Nombre">José</h3>
+            <p class="Email">jose@gmail.com</p>
+            <div class="Telefono">55890123</div>
+            <div class="Direccion">Zona 10</div>
+        </div>
 
-    <div class="Empleado-info">
-        <img src="Images/Mecanico10.jpg" alt="Mecanico Mario" class="Empleado-img">
-        <div class="Puesto">Mecánico</div>
-        <h3 class="Nombre">Mario</h3>
-        <p class="Email">mario@gmail.com</p>
-        <div class="Telefono">66338542</div>
-        <div class="Direccion">Zona 11</div>
-    </div>
+
+        <div class="Empleado-info">
+            <img src="Images/Mecanico6.jpg" alt="Mecanico Mario" class="Empleado-img">
+            <div class="Puesto">Mecánico</div>
+            <h3 class="Nombre">Mario</h3>
+            <p class="Email">mario@gmail.com</p>
+            <div class="Telefono">66338542</div>
+            <div class="Direccion">Zona 11</div>
+        </div>
     </section>
 
     <footer>
